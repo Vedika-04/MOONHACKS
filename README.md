@@ -60,7 +60,7 @@ Backend
 PHP and MySQL: Power the backend functionalities, managing user data, career roadmaps, and job listings.
 
 ## Screenshots
-![Home Page] (images/Screenshot(371).png)
+![Home Page](images/Screenshot(371).png)
 
 ## Installation
 1. Clone the repository:
