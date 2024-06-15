@@ -1,4 +1,4 @@
-# MOONHACKS
+# TechMap
 
 # Techmap: Navigating IT Careers
 
